@@ -1,4 +1,4 @@
 177.201.230.126#Victoria
 179.253.243.207#California
 140.235.98.199#Kowloon
-179.255.107.87#Los Angeles
+179.255.107.87#Angeles
